@@ -52,7 +52,7 @@ Design and develop web-based applications tailored to automate and streamline yo
 * **Reactive Plan:** Unlimited service calls at \$1,000/mo for up to 25 users; +\$1,000 per additional 25 users
 * **Proactive Plan:** Includes all Reactive features plus Office licensing, remote device management, password management, cloud backups, and antivirus—starting at \$3,500/mo for up to 25 users
 
-> *Hardware purchases and software licenses are billed separately at MSRP.*
+> *Hardware purchases are billed separately at MSRP.*
 
 ## ⚙️ Our Recommended Technology
 
@@ -72,7 +72,6 @@ Design and develop web-based applications tailored to automate and streamline yo
 ## 🔗 Quick Links
 
 * [Service Status](https://status.computermotivators.com)
-* [Computer Motivators on GitHub](https://github.com/computermotivators)
 * [Pricing](https://computermotivators.com/learn-more)
 * [Terms & Conditions](https://computermotivators.com/terms)
 * [Contact Us & Appointments](https://computermotivators.com/contact-us)
